@@ -1,2 +1,2 @@
 # it-bots
-بوتات الكميونتي
+discord bots for my community
